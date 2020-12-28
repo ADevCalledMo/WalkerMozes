@@ -1,5 +1,7 @@
 ### Hi there, welcome to my Gihub Profile!
-<img src="./MozesBanner.png">
+<img
+  align="center"
+src="./MozesBanner.png">
 
 
 <!--
